@@ -24,7 +24,7 @@ Si deseas ver el proyecto localmente:
 
 1. Clona el repositorio:
    ```bash
-   git clone [https://github.com/TU_USUARIO/NOMBRE_REPOSITORIO.git](https://github.com/TU_USUARIO/NOMBRE_REPOSITORIO.git)
+   git clone [https://github.com/DanielCampos3760/Maquetado-en-Html-Css.git](https://github.com/DanielCampos3760/Maquetado-en-Html-Css.git)
 Abre el archivo index.html en tu navegador preferido.
 
 ##👨‍💻 Sobre mí
