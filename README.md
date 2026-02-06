@@ -1,44 +1,32 @@
 # Maquetado-en-Html-Cs
 
-📄 Interactive Curriculum Vitae
-Este es mi proyecto de portafolio personal y CV interactivo desarrollado con tecnologías web fundamentales. El objetivo de este repositorio es presentar mi trayectoria académica, habilidades técnicas y proyectos de una manera limpia, moderna y profesional.
+# 📄 Interactive Curriculum Vitae
 
-🚀 Vista Previa
-El sitio presenta un diseño responsivo con:
+Este es mi proyecto de portafolio personal y CV interactivo. El objetivo de este repositorio es presentar mi trayectoria académica, habilidades técnicas y proyectos de una manera limpia, moderna y profesional.
 
-Sección de Contacto: Información directa y enlaces a redes sociales.
+## 🚀 Características
+* **Diseño Profesional:** Estructura limpia utilizando variables CSS para una fácil personalización.
+* **Sección de Contacto:** Información directa y enlace a redes sociales.
+* **Trayectoria Académica:** Detalle de mi formación actual en la **Universidad de Guadalajara**.
+* **Skills Dinámicos:** Visualización de competencias mediante barras de progreso, destacando mi dominio en **C/C++ (90%)**.
+* **Portafolio de Proyectos:** Resumen de trabajos como mi calculadora en Java y este CV.
 
-Trayectoria Académica: Detalle de mi formación en la Universidad de Guadalajara.
+## 🛠️ Tecnologías Utilizadas
+* **HTML5:** Estructura semántica del contenido.
+* **CSS3:** Diseño personalizado con Google Fonts (Roboto), Flexbox y variables modernas.
 
-Skills Dinámicos: Visualización de competencias mediante barras de progreso.
+## 📊 Habilidades Técnicas
+* **C/C++:** 90%
+* **JavaScript:** 40%
+* **HTML/CSS:** 30%
+* **Java:** Aplicaciones de escritorio (Calculadora)
 
-Portafolio de Proyectos: Resumen de trabajos previos como mi calculadora en Java y este mismo sitio.
+## 📂 Instalación y Uso
+Si deseas ver el proyecto localmente:
 
-🛠️ Tecnologías Utilizadas
-Para este proyecto utilicé:
-
-HTML5: Estructura semántica del contenido.
-
-CSS3: Diseño personalizado utilizando variables (:root), Flexbox y estilos modernos.
-
-Google Fonts: Integración de la fuente Roboto para una mejor legibilidad.
-
-📊 Habilidades Destacadas
-Aunque este proyecto se centra en la web, refleja mi perfil como estudiante de Ciencias de la Computación:
-
-C/C++: Dominio avanzado (90%).
-
-Java: Implementación de aplicaciones lógicas (Calculadora).
-
-Web Stack: Proceso de aprendizaje continuo en HTML, CSS y JavaScript.
-
-📂 Instalación y Uso
-Si deseas ver el proyecto localmente o usarlo como base:
-
-Clona el repositorio:
-
-Bash
-git clone https://github.com/TU_USUARIO/NOMBRE_REPOSITORIO.git
+1. Clona el repositorio:
+   ```bash
+   git clone [https://github.com/TU_USUARIO/NOMBRE_REPOSITORIO.git](https://github.com/TU_USUARIO/NOMBRE_REPOSITORIO.git)
 Abre el archivo index.html en tu navegador preferido.
 
 👨‍💻 Sobre mí
