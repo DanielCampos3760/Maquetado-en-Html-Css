@@ -1,5 +1,3 @@
-# Maquetado-en-Html-Cs
-
 # 📄 Interactive Curriculum Vitae
 
 Este es mi proyecto de portafolio personal y CV interactivo. El objetivo de este repositorio es presentar mi trayectoria académica, habilidades técnicas y proyectos de una manera limpia, moderna y profesional.
@@ -29,7 +27,7 @@ Si deseas ver el proyecto localmente:
    git clone [https://github.com/TU_USUARIO/NOMBRE_REPOSITORIO.git](https://github.com/TU_USUARIO/NOMBRE_REPOSITORIO.git)
 Abre el archivo index.html en tu navegador preferido.
 
-👨‍💻 Sobre mí
+##👨‍💻 Sobre mí
 Soy Carlos Daniel Campos Rojas, estudiante de Ingeniería en Computación apasionado por el hardware, la optimización de sistemas y el desarrollo de software. Actualmente enfocado en perfeccionar mis habilidades en lenguajes de bajo nivel y arquitectura de red.
 
 ¡Conéctate conmigo en Instagram!
